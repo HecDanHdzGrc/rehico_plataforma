@@ -1,0 +1,1 @@
+Carpeta para almacenar las plantillas a ocupar en las UIs de la plataforma.

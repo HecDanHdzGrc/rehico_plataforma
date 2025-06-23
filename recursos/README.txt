@@ -1,0 +1,1 @@
+Carpeta para almacenar los recursos de la plataforma.
